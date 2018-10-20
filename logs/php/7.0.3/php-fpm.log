@@ -1,0 +1,17 @@
+[15-Oct-2018 14:37:36] NOTICE: fpm is running, pid 805
+[15-Oct-2018 14:37:36] NOTICE: ready to handle connections
+[16-Oct-2018 03:25:22] NOTICE: fpm is running, pid 181
+[16-Oct-2018 03:25:22] NOTICE: ready to handle connections
+[17-Oct-2018 15:57:24] NOTICE: fpm is running, pid 345
+[17-Oct-2018 15:57:24] NOTICE: ready to handle connections
+[20-Oct-2018 03:12:40] NOTICE: fpm is running, pid 240
+[20-Oct-2018 03:12:40] NOTICE: ready to handle connections
+[20-Oct-2018 03:50:32] WARNING: [pool www] child 659 exited on signal 11 (SIGSEGV) after 2052.731384 seconds from start
+[20-Oct-2018 03:50:32] NOTICE: [pool www] child 710 started
+[20-Oct-2018 03:50:33] WARNING: [pool www] child 666 exited on signal 11 (SIGSEGV) after 2041.682616 seconds from start
+[20-Oct-2018 03:50:33] NOTICE: [pool www] child 711 started
+[20-Oct-2018 03:50:34] WARNING: [pool www] child 690 exited on signal 11 (SIGSEGV) after 399.430158 seconds from start
+[20-Oct-2018 03:50:34] NOTICE: [pool www] child 712 started
+[20-Oct-2018 03:50:35] WARNING: [pool www] child 693 exited on signal 11 (SIGSEGV) after 363.387274 seconds from start
+[20-Oct-2018 03:50:35] NOTICE: [pool www] child 713 started
+[20-Oct-2018 03:53:05] WARNING: [pool www] server reached pm.max_children setting (5), consider raising it

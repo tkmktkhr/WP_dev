@@ -1,0 +1,1 @@
+(function($){"use strict";var $site_navigation=$('#site-navigation li:has(ul)');if($site_navigation[0]&&783<=window.innerWidth){$site_navigation.doubleTapToGo();}})(jQuery);

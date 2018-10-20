@@ -1,0 +1,947 @@
+# WordPress Blank Pot
+# Copyright (C) 2014 ...
+# This file is distrubuted under the GPL-2.0+
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress Blank Pot v1.0.0\n"
+"Report-Msgid-Bugs-To: Translator Name <translations@example.com>\n"
+"POT-Creation-Date: 2016-10-07 18:36+0900\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Kurudrive <kurudrive@gmail.com>\n"
+"Language-Team: Your Team <translations@example.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Textdomain-Support: yesX-Generator: Poedit 1.6.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_x;esc_html_e;esc_html__;esc_attr_e;esc_attr__;"
+"_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_x:1,2c;_n:1,2;_n_noop:1,2;"
+"__ngettext_noop:1,2;_c,_nc:4c,1,2\n"
+"X-Poedit-Basepath: ../\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 503.php:19
+msgid "Maintenance in progress."
+msgstr ""
+
+#: attachment.php:49 module_loop_post2.php:26
+msgid "Read more"
+msgstr ""
+
+#: comments.php:19
+msgid "Comment"
+msgstr ""
+
+#: comments.php:22 comments.php:34
+msgid "&laquo; Older Comments"
+msgstr ""
+
+#: comments.php:23 comments.php:35
+msgid "Newer Comments &raquo;"
+msgstr ""
+
+#: footer.php:60
+msgid "Free WordPress Theme BizVektor for business"
+msgstr ""
+
+#: front-page.php:36
+msgid ""
+"* In admin [Settings] &raquo; [Display Settings], if the front page is not "
+"set to a [page], nothing is displayed in this area."
+msgstr ""
+
+#: front-page.php:37
+msgid ""
+"* If empty, the body of a page that you set as the front page does not "
+"display anything."
+msgstr ""
+
+#: front-page.php:40 functions.php:567 module_loop_post.php:18
+#: module_loop_post2.php:20 module_topPR.php:182 page-parent.php:54
+#: page.php:14 single.php:11 inc/theme-options.php:436
+msgid "Edit"
+msgstr ""
+
+#: front-page.php:43
+msgid "Title display settings"
+msgstr ""
+
+#: front-page.php:46
+msgid "Change the page to be displayed"
+msgstr ""
+
+#: functions.php:124
+msgid "Sidebar(Front page only)"
+msgstr ""
+
+#: functions.php:126
+msgid "This widget area appears on the front page only."
+msgstr ""
+
+#: functions.php:133
+msgid "Sidebar(Post content only)"
+msgstr ""
+
+#: functions.php:135
+msgid "This widget area appears only on the post content pages."
+msgstr ""
+
+#: functions.php:142
+msgid "Sidebar(Page content only)"
+msgstr ""
+
+#: functions.php:144
+msgid "This widget area appears only on the page content pages."
+msgstr ""
+
+#: functions.php:151
+msgid "Sidebar(Common top)"
+msgstr ""
+
+#: functions.php:153
+msgid "This widget area appears at top of sidebar."
+msgstr ""
+
+#: functions.php:160
+msgid "Sidebar(Common bottom)"
+msgstr ""
+
+#: functions.php:162
+msgid "This widget area appears at bottom of sidebar."
+msgstr ""
+
+#: functions.php:276 functions.php:277 functions.php:284
+msgid "Meta Keywords"
+msgstr ""
+
+#: functions.php:285
+msgid ""
+"To distinguish between individual keywords, please enter a , delimiter "
+"(optional)."
+msgstr ""
+
+#: functions.php:286
+msgctxt "link to seo setting"
+msgid "SEO Setting"
+msgstr ""
+
+#: functions.php:287
+#, php-format
+msgid "* keywords common to the entire site can be set from %s."
+msgstr ""
+
+#: functions.php:332 functions.php:340
+#, php-format
+msgid "About %s"
+msgstr ""
+
+#: functions.php:344 index.php:28 module_panList.php:155
+#: inc/theme-options.php:147
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: functions.php:345
+#, php-format
+msgctxt "Yearly archive description"
+msgid "Article of %s."
+msgstr ""
+
+#: functions.php:348 index.php:30 module_panList.php:157
+#: inc/theme-options.php:145
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: functions.php:349 functions.php:353 functions.php:357
+#, php-format
+msgctxt "Archive description"
+msgid "Article of %s."
+msgstr ""
+
+#: functions.php:374 inc/theme-options.php:165
+#, php-format
+msgid "Page of %s"
+msgstr ""
+
+#: functions.php:547
+msgid "Your comment is awaiting approval."
+msgstr ""
+
+#: functions.php:557
+msgid "Reply"
+msgstr ""
+
+#: functions.php:581
+msgid "Navigation"
+msgstr ""
+
+#: functions.php:582
+msgid "<span class=\"meta-nav\">&larr;</span> Older post"
+msgstr ""
+
+#: functions.php:583
+msgid "New post <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: header.php:63 bizvektor_themes/003/functions_003.php:35
+msgid "Skip menu"
+msgstr ""
+
+#: index.php:28 module_panList.php:155 inc/theme-options.php:147
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: index.php:30 module_panList.php:157 inc/theme-options.php:145
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: index.php:34
+msgid "Tags : "
+msgstr ""
+
+#: module_mainfoot.php:15
+msgid "bt_contact.png"
+msgstr ""
+
+#: module_mainfoot.php:15 inc/theme-options.php:643
+msgid "Contact us by e-mail"
+msgstr ""
+
+#: module_pageTit.php:46 module_panList.php:30 inc/theme-options.php:158
+#, php-format
+msgid "Search Results for : %s"
+msgstr ""
+
+#: module_pageTit.php:48 module_panList.php:28
+msgid "Not found"
+msgstr ""
+
+#: module_top_list_info.php:28 module_top_list_post.php:43
+#, php-format
+msgid "%s List page"
+msgstr ""
+
+#: module_topPR.php:32 module_topPR.php:88 module_topPR.php:144
+#, php-format
+msgid "Image of %s"
+msgstr ""
+
+#: module_topPR.php:56 module_topPR.php:112 module_topPR.php:168
+#: page-parent.php:52
+msgctxt "Link to page"
+msgid "Read more"
+msgstr ""
+
+#: search.php:16
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with "
+"different keywords."
+msgstr ""
+
+#: sidebar-post.php:10 single.php:15
+msgid "Category"
+msgstr ""
+
+#: single.php:13
+msgid "Posted on"
+msgstr ""
+
+#: single.php:29
+#, php-format
+msgid "<dt>Tags</dt><dd>%1$s</dd>"
+msgstr ""
+
+#: bizvektor_themes/001/001_custom.php:75
+msgctxt "Default color settings"
+msgid "Default color settings"
+msgstr ""
+
+#: bizvektor_themes/001/001_custom.php:83
+#: bizvektor_themes/003/003_custom.php:72
+msgid "Keycolor"
+msgstr ""
+
+#: bizvektor_themes/001/001_custom.php:88
+#: bizvektor_themes/003/003_custom.php:77
+msgid "Keycolor(Light)"
+msgstr ""
+
+#: bizvektor_themes/001/001_custom.php:93
+msgid "Keycolor(Dark)"
+msgstr ""
+
+#: bizvektor_themes/001/001_custom.php:107
+#: bizvektor_themes/002/002_custom.php:100
+#: bizvektor_themes/003/003_custom.php:47
+msgid "Set the color from theme customizer"
+msgstr ""
+
+#: bizvektor_themes/002/002_custom.php:79
+msgid "Calmly Setting"
+msgstr ""
+
+#: bizvektor_themes/002/002_custom.php:86
+msgctxt "Calmly color settings"
+msgid "Keycolor"
+msgstr ""
+
+#: bizvektor_themes/003/003_custom.php:60
+msgid "Rebuild color setting"
+msgstr ""
+
+#: bizvektor_themes/003/003_custom.php:82
+msgid "Keycolor(VeryLight)"
+msgstr ""
+
+#: inc/theme-customizer.php:27
+msgctxt "biz-vektor theme-customizer"
+msgid "Design settings"
+msgstr ""
+
+#: inc/theme-customizer.php:78 inc/theme-options-edit.php:138
+msgctxt "biz-vektor theme-customizer"
+msgid "Header logo image"
+msgstr ""
+
+#: inc/theme-customizer.php:86
+msgctxt "biz-vektor theme-customizer"
+msgid "Header logo image URL"
+msgstr ""
+
+#: inc/theme-customizer.php:98 inc/theme-options-edit.php:146
+msgctxt "biz-vektor theme-customizer"
+msgid "Footer logo image"
+msgstr ""
+
+#: inc/theme-customizer.php:106
+msgctxt "biz-vektor theme-customizer"
+msgid "Footer logo image URL"
+msgstr ""
+
+#: inc/theme-customizer.php:114 inc/theme-options-edit.php:116
+msgctxt "biz-vektor theme-customizer"
+msgid "Not specified (left-justified)"
+msgstr ""
+
+#: inc/theme-customizer.php:115 inc/theme-options-edit.php:117
+msgctxt "biz-vektor theme-customizer"
+msgid "4"
+msgstr ""
+
+#: inc/theme-customizer.php:116 inc/theme-options-edit.php:118
+msgctxt "biz-vektor theme-customizer"
+msgid "5"
+msgstr ""
+
+#: inc/theme-customizer.php:117 inc/theme-options-edit.php:119
+msgctxt "biz-vektor theme-customizer"
+msgid "6"
+msgstr ""
+
+#: inc/theme-customizer.php:118 inc/theme-options-edit.php:120
+msgctxt "biz-vektor theme-customizer"
+msgid "7"
+msgstr ""
+
+#: inc/theme-customizer.php:120 inc/theme-options-edit.php:110
+msgctxt "biz-vektor theme-customizer"
+msgid "Number of header menus"
+msgstr ""
+
+#: inc/theme-customizer.php:132 inc/theme-options-edit.php:154
+msgctxt "biz-vektor theme-customizer"
+msgid "Layout"
+msgstr ""
+
+#: inc/theme-customizer.php:140 inc/theme-options-edit.php:184
+msgctxt "biz-vektor theme-customizer"
+msgid "Heading font"
+msgstr ""
+
+#: inc/theme-customizer.php:145 inc/theme-customizer.php:156
+#: inc/theme-options-edit.php:187 inc/theme-options-edit.php:203
+msgctxt "biz-vektor theme-customizer"
+msgid "Serif"
+msgstr ""
+
+#: inc/theme-customizer.php:146 inc/theme-customizer.php:157
+#: inc/theme-options-edit.php:187 inc/theme-options-edit.php:203
+msgctxt "biz-vektor theme-customizer"
+msgid "Sanserif"
+msgstr ""
+
+#: inc/theme-customizer.php:151 inc/theme-options-edit.php:200
+msgctxt "biz-vektor theme-customizer"
+msgid "Global Menu font"
+msgstr ""
+
+#: inc/theme-customizer.php:167 inc/theme-options-edit.php:250
+msgctxt "biz-vektor theme-customizer"
+msgid "Contact settings"
+msgstr ""
+
+#: inc/theme-customizer.php:220 inc/theme-options-edit.php:257
+msgctxt "biz-vektor theme-customizer"
+msgid "Message"
+msgstr ""
+
+#: inc/theme-customizer.php:228 inc/theme-options-edit.php:264
+msgctxt "biz-vektor theme-customizer"
+msgid "Phone number"
+msgstr ""
+
+#: inc/theme-customizer.php:236 inc/theme-options-edit.php:271
+#: inc/theme-options-edit.php:274
+msgctxt "biz-vektor theme-customizer"
+msgid "Office hours"
+msgstr ""
+
+#: inc/theme-customizer.php:244
+msgctxt "biz-vektor theme-customizer"
+msgid ""
+"Site / Company / Store / Service name. This is displayed in the left bottom "
+"part of the footer."
+msgstr ""
+
+#: inc/theme-customizer.php:252 inc/theme-options-edit.php:288
+msgctxt "biz-vektor theme-customizer"
+msgid "Company address"
+msgstr ""
+
+#: inc/theme-customizer.php:260 inc/theme-options-edit.php:298
+msgctxt "biz-vektor theme-customizer"
+msgid "The contact page URL"
+msgstr ""
+
+#: inc/theme-customizer.php:271 inc/theme-options-edit.php:318
+msgid "3PR area settings"
+msgstr ""
+
+#: inc/theme-customizer.php:284 inc/theme-options-edit.php:340
+msgid "Title"
+msgstr ""
+
+#: inc/theme-customizer.php:293 inc/theme-options-edit.php:342
+msgid "Description"
+msgstr ""
+
+#: inc/theme-customizer.php:300 inc/theme-options-edit.php:344
+msgid "URL"
+msgstr ""
+
+#: inc/theme-customizer.php:309
+msgctxt "biz-vektor theme-customizer"
+msgid "Image (Desktop version) : 310px width is recommended."
+msgstr ""
+
+#: inc/theme-customizer.php:317
+msgctxt "biz-vektor theme-customizer"
+msgid "Image (Smartphone version) : 120px by 120px is recommended."
+msgstr ""
+
+#: inc/theme-options-edit.php:20
+#, php-format
+msgid "%s Theme Options"
+msgstr ""
+
+#: inc/theme-options-edit.php:36
+msgid "Thank you for using BizVektor Global Edition!"
+msgstr ""
+
+#: inc/theme-options-edit.php:37
+msgid ""
+"For a more powerful and <strong>business ready</strong> theme you can "
+"download for FREE BizVektor Standard Edition."
+msgstr ""
+
+#: inc/theme-options-edit.php:49
+msgid "Theme customizer"
+msgstr ""
+
+#: inc/theme-options-edit.php:50
+msgid "Thank you for using BizVektor."
+msgstr ""
+
+#: inc/theme-options-edit.php:51
+#, php-format
+msgid "You can change basic design settings from %s"
+msgstr ""
+
+#: inc/theme-options-edit.php:52
+msgid "Here you can change social media settings."
+msgstr ""
+
+#: inc/theme-options-edit.php:57
+msgid "BizVektor Standard Edition(Free)"
+msgstr ""
+
+#: inc/theme-options-edit.php:59
+#, php-format
+msgid ""
+"This \"Global Edition\" is virtually BizVektor \"Light version\". You can "
+"get more powerful function theme %s."
+msgstr ""
+
+#: inc/theme-options-edit.php:75
+msgctxt "biz-vektor theme-options-edit"
+msgid "Design settings"
+msgstr ""
+
+#: inc/theme-options-edit.php:77 inc/theme-options-edit.php:252
+#: inc/theme-options-edit.php:320
+#, php-format
+msgid "You can change settings for this section also from %s"
+msgstr ""
+
+#: inc/theme-options-edit.php:82
+msgid "Design skin"
+msgstr ""
+
+#: inc/theme-options-edit.php:85 inc/theme-options-edit.php:113
+msgid "Select"
+msgstr ""
+
+#: inc/theme-options-edit.php:102
+msgid ""
+"* If there are settings for the particular design skin, after you save your "
+"changes, you can update them from theme customizer."
+msgstr ""
+
+#: inc/theme-options-edit.php:140 inc/theme-options-edit.php:148
+#: inc/theme-options-edit.php:350 inc/theme-options-edit.php:356
+msgid "Select image"
+msgstr ""
+
+#: inc/theme-options-edit.php:141
+msgid "Recommended : less than 60px height"
+msgstr ""
+
+#: inc/theme-options-edit.php:149
+msgid "Recommended : 180-250px width"
+msgstr ""
+
+#: inc/theme-options-edit.php:171
+msgid "You can select 1-column from below: "
+msgstr ""
+
+#: inc/theme-options-edit.php:175 inc/theme-options-edit.php:453
+msgid "Home page settings"
+msgstr ""
+
+#: inc/theme-options-edit.php:176
+#, php-format
+msgid "[Top page] %s"
+msgstr ""
+
+#: inc/theme-options-edit.php:178
+msgid "[page] Edit Page > Page Attributes > Template"
+msgstr ""
+
+#: inc/theme-options-edit.php:216
+msgid "Deployment of the sidebar menu"
+msgstr ""
+
+#: inc/theme-options-edit.php:218
+msgid ""
+"If the site hierarchy is deep, you can choose to hide this menu hierarchy "
+"other than the Page you are currently viewing."
+msgstr ""
+
+#: inc/theme-options-edit.php:220
+msgid "Display"
+msgstr ""
+
+#: inc/theme-options-edit.php:220
+msgid "Hide"
+msgstr ""
+
+#: inc/theme-options-edit.php:229
+msgid "This setting can not be changed from the theme customizer."
+msgstr ""
+
+#: inc/theme-options-edit.php:232
+msgid "google fonts"
+msgstr ""
+
+#: inc/theme-options-edit.php:235
+msgid "enable google font"
+msgstr ""
+
+#: inc/theme-options-edit.php:260 inc/theme-options-edit.php:267
+#: inc/theme-options-edit.php:274 inc/theme-options-edit.php:282
+#: inc/theme-options-edit.php:291 inc/theme-options-edit.php:301
+msgid "ex) "
+msgstr ""
+
+#: inc/theme-options-edit.php:260
+msgid "Please feel free to inquire."
+msgstr ""
+
+#: inc/theme-options-edit.php:274
+msgid "Weekdays except holidays"
+msgstr ""
+
+#: inc/theme-options-edit.php:278
+msgctxt "biz-vektor theme-customizer"
+msgid ""
+"Site / Company / Store / Service name. This is displayed in the left part of "
+"the footer bottom and footer copyright section."
+msgstr ""
+
+#: inc/theme-options-edit.php:282
+msgid "BizVektor, Inc."
+msgstr ""
+
+#: inc/theme-options-edit.php:283
+msgid ""
+"* Use this feature when the site name has become too long for SEO purposes."
+msgstr ""
+
+#: inc/theme-options-edit.php:288
+msgid "This is displayed in the left bottom part of the footer."
+msgstr ""
+
+#: inc/theme-options-edit.php:292
+msgid ""
+"316, Minami Sakae Building,<br />1-22-16, Sakae, Naka-ku, Nagoya-shi,<br /"
+">Aichi 460-0008 JAPAN<br />TEL / FAX +81-52-228-9176"
+msgstr ""
+
+#: inc/theme-options-edit.php:301
+msgid "or"
+msgstr ""
+
+#: inc/theme-options-edit.php:302
+msgid ""
+"* If you fill in the blank, contact banner will be displayed in the sidebar."
+msgstr ""
+
+#: inc/theme-options-edit.php:303
+msgid "If not, it does not appear."
+msgstr ""
+
+#: inc/theme-options-edit.php:327
+msgid "The display of the home page 3PR area."
+msgstr ""
+
+#: inc/theme-options-edit.php:329
+msgid "Check this box if you do not want to see the 3PR area on the home page."
+msgstr ""
+
+#: inc/theme-options-edit.php:330
+msgid "Do not show the top 3PR area"
+msgstr ""
+
+#: inc/theme-options-edit.php:338
+msgid "PR area"
+msgstr ""
+
+#: inc/theme-options-edit.php:346
+msgid "Image (Desktop version)"
+msgstr ""
+
+#: inc/theme-options-edit.php:351
+msgid "310px width is recommended."
+msgstr ""
+
+#: inc/theme-options-edit.php:352
+msgid "Image (Smartphone version)"
+msgstr ""
+
+#: inc/theme-options-edit.php:357
+msgid "120px by 120px is recommended."
+msgstr ""
+
+#: inc/theme-options-edit.php:365
+msgid "* If you are unsure about the image, you can leave this field blank."
+msgstr ""
+
+#: inc/theme-options-edit.php:367
+msgid ""
+"* You can set different image for desktop and smartphone versions of the "
+"site."
+msgstr ""
+
+#: inc/theme-options-edit.php:379
+#, php-format
+msgid "Settings for [ %s ]."
+msgstr ""
+
+#: inc/theme-options-edit.php:380
+msgid "* Does not appear if there are no posts."
+msgstr ""
+
+#: inc/theme-options-edit.php:381
+msgid ""
+"* If the excerpt field is not empty, the content will appear in the &quot;"
+"excerpt&quot;. Otherwise, the text will be displayed in a certain number of"
+msgstr ""
+
+#: inc/theme-options-edit.php:382
+msgid ""
+"<span class=\"alert\">Featured image of the article</span> is displayed."
+msgstr ""
+
+#: inc/theme-options-edit.php:383
+msgid ""
+"You can set the &quot;featured image&quot;, from the bottom right widget "
+"area of particular article edit screen."
+msgstr ""
+
+#: inc/theme-options-edit.php:384
+msgid ""
+"If there is no widget, please check &quot;Featured image&quot; at the top "
+"right of the screen from the &quot;Screen options&quot; tab."
+msgstr ""
+
+#: inc/theme-options-edit.php:391
+msgid "Change the title"
+msgstr ""
+
+#: inc/theme-options-edit.php:393
+#, php-format
+msgid "Display layout of &quot; %s &quot on the top page."
+msgstr ""
+
+#: inc/theme-options-edit.php:397 inc/theme-options-edit.php:413
+msgid "Title only"
+msgstr ""
+
+#: inc/theme-options-edit.php:398 inc/theme-options-edit.php:414
+msgid "With excerpt and thumbnail"
+msgstr ""
+
+#: inc/theme-options-edit.php:409
+#, php-format
+msgid "Display layout of &quot; %s &quot on the archive page."
+msgstr ""
+
+#: inc/theme-options-edit.php:428
+#, php-format
+msgid "Number of %s posts to be displayed on the home page."
+msgstr ""
+
+#: inc/theme-options-edit.php:429
+msgctxt "top page post count"
+msgid "posts"
+msgstr ""
+
+#: inc/theme-options-edit.php:456
+msgid "Main visual"
+msgstr ""
+
+#: inc/theme-options-edit.php:457
+msgid "You can use a slide show or a still image."
+msgstr ""
+
+#: inc/theme-options-edit.php:460
+msgid "Still image settings"
+msgstr ""
+
+#: inc/theme-options-edit.php:462
+msgid "Slide show settings"
+msgstr ""
+
+#: inc/theme-options-edit.php:467
+msgid "Home 3PR area"
+msgstr ""
+
+#: inc/theme-options-edit.php:470
+msgid "Settings for the Home page 3PR area are here"
+msgstr ""
+
+#: inc/theme-options-edit.php:475
+msgid "The display of the home page side bar."
+msgstr ""
+
+#: inc/theme-options-edit.php:477
+msgid ""
+"Check this box if you do not want to display the side bar on the home page."
+msgstr ""
+
+#: inc/theme-options-edit.php:478
+msgid "I want to hide the sidebar"
+msgstr ""
+
+#: inc/theme-options-edit.php:482
+#, php-format
+msgid "Display a number of %s posts."
+msgstr ""
+
+#: inc/theme-options-edit.php:484
+#, php-format
+msgid "Please set from the [ Setting the %s ] section."
+msgstr ""
+
+#: inc/theme-options-edit.php:499
+msgid "Slideshow Settings"
+msgstr ""
+
+#: inc/theme-options-edit.php:500
+msgid "Please enter the URL of the image to be used in the slideshow."
+msgstr ""
+
+#: inc/theme-options-edit.php:501
+msgid "The recommended size of the image is 950 x 250px."
+msgstr ""
+
+#: inc/theme-options-edit.php:503
+msgid "Home page Main visual"
+msgstr ""
+
+#: inc/theme-options-edit.php:504
+#, php-format
+msgid "%s will be displayed if the slideshow is not set."
+msgstr ""
+
+#: inc/theme-options-edit.php:505
+msgid ""
+"It can be only the URL of an image. However, the link is set for the image "
+"if you enter a link URL."
+msgstr ""
+
+#: inc/theme-options-edit.php:506
+msgid "Please type in the alternate text for the image."
+msgstr ""
+
+#: inc/theme-options-edit.php:507
+msgid "When filled in, will be more likely to match the search."
+msgstr ""
+
+#: inc/theme-options-edit.php:508
+msgid ""
+"Moreover, for visually impaired visitors using a text-to-speech device, it "
+"reads out the text."
+msgstr ""
+
+#: inc/theme-options-edit.php:519
+msgid "Link URL"
+msgstr ""
+
+#: inc/theme-options-edit.php:521
+msgid "Image URL"
+msgstr ""
+
+#: inc/theme-options-edit.php:522
+msgid "Select an image"
+msgstr ""
+
+#: inc/theme-options-edit.php:524
+msgid "Alternate text"
+msgstr ""
+
+#: inc/theme-options-edit.php:527
+msgctxt "Slide not displayed"
+msgid "Do not display"
+msgstr ""
+
+#: inc/theme-options-edit.php:528
+msgid "Open in a blank window"
+msgstr ""
+
+#: inc/theme-options-edit.php:536
+msgid ""
+"* The slideshow can be set to up to 5 images, but when accessing the site "
+"using a slow internet connection, because of the time it takes to display "
+"all images, the visitor might leave the page early onwhich might have a "
+"negative effect. Therefore using three or less images is recommended."
+msgstr ""
+
+#: inc/theme-options-nav.php:3
+msgctxt "BizVektor option tab label"
+msgid "Design"
+msgstr ""
+
+#: inc/theme-options-nav.php:4
+msgctxt "BizVektor option tab label"
+msgid "Contact"
+msgstr ""
+
+#: inc/theme-options-nav.php:5
+msgctxt "BizVektor option tab label"
+msgid "TopPR"
+msgstr ""
+
+#: inc/theme-options-nav.php:7
+msgctxt "BizVektor option tab label"
+msgid "Homepage"
+msgstr ""
+
+#: inc/theme-options-nav.php:8
+msgctxt "BizVektor option tab label"
+msgid "Slide"
+msgstr ""
+
+#: inc/theme-options.php:68 inc/theme-options.php:69
+msgid "Theme Options"
+msgstr ""
+
+#: inc/theme-options.php:179
+msgid "Left sidebar"
+msgstr ""
+
+#: inc/theme-options.php:184
+msgid "Right sidebar"
+msgstr ""
+
+#: inc/theme-options.php:258
+msgid "Plain"
+msgstr ""
+
+#: inc/theme-options.php:292
+msgid "[ Select ]"
+msgstr ""
+
+#: inc/theme-options.php:574
+msgctxt "Font select"
+msgid "serif"
+msgstr ""
+
+#: inc/theme-options.php:576
+msgctxt "Font select"
+msgid "Meiryo,Osaka,sans-serif"
+msgstr ""
+
+#: inc/theme-options.php:643
+msgid "bnr_contact.png"
+msgstr ""
+
+#: inc/theme-options.php:689
+msgid "Rich & Powerfull theme options"
+msgstr ""
+
+#: inc/theme-options.php:690
+msgid ""
+"This area can be changed from the theme customizer as well as from the theme "
+"options section."
+msgstr ""
+
+#: inc/theme-options.php:694
+msgid "Various designs available"
+msgstr ""
+
+#: inc/theme-options.php:695
+msgid ""
+"BizVektor will allow you not only to change the color of the site, but also "
+"to switch to a different design."
+msgstr ""
+
+#: inc/theme-options.php:699
+msgid "Optimized for business web sites"
+msgstr ""
+
+#: inc/theme-options.php:700
+msgid ""
+"Various indispensable business features as child page templates or enquiry "
+"capture are included."
+msgstr ""
+
+#: inc/theme-options.php:718
+msgid "Information"
+msgstr ""

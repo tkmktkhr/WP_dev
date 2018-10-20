@@ -1,0 +1,1 @@
+-ämY<?php exit; ?>a:1:{s:7:"content";s:167:"a:2:{s:45:"ewww-image-optimizer/ewww-image-optimizer.php";s:30:"ewww_image_optimizer_uninstall";s:39:"simple-custom-css/simple-custom-css.php";s:15:"sccss_uninstall";}";}

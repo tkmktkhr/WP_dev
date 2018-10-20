@@ -1,0 +1,1 @@
+AämY<?php exit; ?>a:1:{s:7:"content";s:153:"a:4:{s:6:"plugin";s:8:"BackWPup";s:10:"identifier";s:32:"03e7b03f3c07d24834ed8a69733f6145";s:11:"php_version";s:5:"7.0.9";s:10:"wp_version";s:5:"4.7.3";}";}
